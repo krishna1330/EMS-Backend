@@ -1,0 +1,22 @@
+C:\Users\krish\OneDrive\Desktop\Projects\Event Management System\BusinessLayer\bin\Debug\net6.0\BusinessObjects.deps.json
+C:\Users\krish\OneDrive\Desktop\Projects\Event Management System\BusinessLayer\bin\Debug\net6.0\BusinessObjects.dll
+C:\Users\krish\OneDrive\Desktop\Projects\Event Management System\BusinessLayer\bin\Debug\net6.0\BusinessObjects.pdb
+C:\Users\krish\OneDrive\Desktop\Projects\Event Management System\BusinessLayer\obj\Debug\net6.0\BusinessObjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krish\OneDrive\Desktop\Projects\Event Management System\BusinessLayer\obj\Debug\net6.0\BusinessObjects.AssemblyInfoInputs.cache
+C:\Users\krish\OneDrive\Desktop\Projects\Event Management System\BusinessLayer\obj\Debug\net6.0\BusinessObjects.AssemblyInfo.cs
+C:\Users\krish\OneDrive\Desktop\Projects\Event Management System\BusinessLayer\obj\Debug\net6.0\BusinessObjects.csproj.CoreCompileInputs.cache
+C:\Users\krish\OneDrive\Desktop\Projects\Event Management System\BusinessLayer\obj\Debug\net6.0\BusinessObjects.dll
+C:\Users\krish\OneDrive\Desktop\Projects\Event Management System\BusinessLayer\obj\Debug\net6.0\refint\BusinessObjects.dll
+C:\Users\krish\OneDrive\Desktop\Projects\Event Management System\BusinessLayer\obj\Debug\net6.0\BusinessObjects.pdb
+C:\Users\krish\OneDrive\Desktop\Projects\Event Management System\BusinessLayer\obj\Debug\net6.0\ref\BusinessObjects.dll
+C:\Users\krish\OneDrive\Desktop\Projects\Event Management System\New folder\BusinessLayer\bin\Debug\net6.0\BusinessObjects.deps.json
+C:\Users\krish\OneDrive\Desktop\Projects\Event Management System\New folder\BusinessLayer\bin\Debug\net6.0\BusinessObjects.dll
+C:\Users\krish\OneDrive\Desktop\Projects\Event Management System\New folder\BusinessLayer\bin\Debug\net6.0\BusinessObjects.pdb
+C:\Users\krish\OneDrive\Desktop\Projects\Event Management System\New folder\BusinessLayer\obj\Debug\net6.0\BusinessObjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krish\OneDrive\Desktop\Projects\Event Management System\New folder\BusinessLayer\obj\Debug\net6.0\BusinessObjects.AssemblyInfoInputs.cache
+C:\Users\krish\OneDrive\Desktop\Projects\Event Management System\New folder\BusinessLayer\obj\Debug\net6.0\BusinessObjects.AssemblyInfo.cs
+C:\Users\krish\OneDrive\Desktop\Projects\Event Management System\New folder\BusinessLayer\obj\Debug\net6.0\BusinessObjects.csproj.CoreCompileInputs.cache
+C:\Users\krish\OneDrive\Desktop\Projects\Event Management System\New folder\BusinessLayer\obj\Debug\net6.0\BusinessObjects.dll
+C:\Users\krish\OneDrive\Desktop\Projects\Event Management System\New folder\BusinessLayer\obj\Debug\net6.0\refint\BusinessObjects.dll
+C:\Users\krish\OneDrive\Desktop\Projects\Event Management System\New folder\BusinessLayer\obj\Debug\net6.0\BusinessObjects.pdb
+C:\Users\krish\OneDrive\Desktop\Projects\Event Management System\New folder\BusinessLayer\obj\Debug\net6.0\ref\BusinessObjects.dll

@@ -1,0 +1,88 @@
+C:\Users\krish\OneDrive\Desktop\Projects\Event Management System\EMS_Backend\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\krish\OneDrive\Desktop\Projects\Event Management System\EMS_Backend\bin\Debug\net6.0\appsettings.json
+C:\Users\krish\OneDrive\Desktop\Projects\Event Management System\EMS_Backend\bin\Debug\net6.0\EMS_Backend.exe
+C:\Users\krish\OneDrive\Desktop\Projects\Event Management System\EMS_Backend\bin\Debug\net6.0\EMS_Backend.deps.json
+C:\Users\krish\OneDrive\Desktop\Projects\Event Management System\EMS_Backend\bin\Debug\net6.0\EMS_Backend.runtimeconfig.json
+C:\Users\krish\OneDrive\Desktop\Projects\Event Management System\EMS_Backend\bin\Debug\net6.0\EMS_Backend.dll
+C:\Users\krish\OneDrive\Desktop\Projects\Event Management System\EMS_Backend\bin\Debug\net6.0\EMS_Backend.pdb
+C:\Users\krish\OneDrive\Desktop\Projects\Event Management System\EMS_Backend\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\krish\OneDrive\Desktop\Projects\Event Management System\EMS_Backend\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\krish\OneDrive\Desktop\Projects\Event Management System\EMS_Backend\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\krish\OneDrive\Desktop\Projects\Event Management System\EMS_Backend\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\krish\OneDrive\Desktop\Projects\Event Management System\EMS_Backend\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\krish\OneDrive\Desktop\Projects\Event Management System\EMS_Backend\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\krish\OneDrive\Desktop\Projects\Event Management System\EMS_Backend\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\krish\OneDrive\Desktop\Projects\Event Management System\EMS_Backend\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\krish\OneDrive\Desktop\Projects\Event Management System\EMS_Backend\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\krish\OneDrive\Desktop\Projects\Event Management System\EMS_Backend\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\krish\OneDrive\Desktop\Projects\Event Management System\EMS_Backend\bin\Debug\net6.0\BusinessObjects.dll
+C:\Users\krish\OneDrive\Desktop\Projects\Event Management System\EMS_Backend\bin\Debug\net6.0\DataObjects.dll
+C:\Users\krish\OneDrive\Desktop\Projects\Event Management System\EMS_Backend\bin\Debug\net6.0\ImplementationObjects.dll
+C:\Users\krish\OneDrive\Desktop\Projects\Event Management System\EMS_Backend\bin\Debug\net6.0\BusinessObjects.pdb
+C:\Users\krish\OneDrive\Desktop\Projects\Event Management System\EMS_Backend\bin\Debug\net6.0\ImplementationObjects.pdb
+C:\Users\krish\OneDrive\Desktop\Projects\Event Management System\EMS_Backend\bin\Debug\net6.0\DataObjects.pdb
+C:\Users\krish\OneDrive\Desktop\Projects\Event Management System\EMS_Backend\obj\Debug\net6.0\EMS_Backend.csproj.AssemblyReference.cache
+C:\Users\krish\OneDrive\Desktop\Projects\Event Management System\EMS_Backend\obj\Debug\net6.0\EMS_Backend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krish\OneDrive\Desktop\Projects\Event Management System\EMS_Backend\obj\Debug\net6.0\EMS_Backend.AssemblyInfoInputs.cache
+C:\Users\krish\OneDrive\Desktop\Projects\Event Management System\EMS_Backend\obj\Debug\net6.0\EMS_Backend.AssemblyInfo.cs
+C:\Users\krish\OneDrive\Desktop\Projects\Event Management System\EMS_Backend\obj\Debug\net6.0\EMS_Backend.csproj.CoreCompileInputs.cache
+C:\Users\krish\OneDrive\Desktop\Projects\Event Management System\EMS_Backend\obj\Debug\net6.0\EMS_Backend.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\krish\OneDrive\Desktop\Projects\Event Management System\EMS_Backend\obj\Debug\net6.0\EMS_Backend.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\krish\OneDrive\Desktop\Projects\Event Management System\EMS_Backend\obj\Debug\net6.0\staticwebassets\msbuild.EMS_Backend.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\krish\OneDrive\Desktop\Projects\Event Management System\EMS_Backend\obj\Debug\net6.0\staticwebassets\msbuild.build.EMS_Backend.props
+C:\Users\krish\OneDrive\Desktop\Projects\Event Management System\EMS_Backend\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.EMS_Backend.props
+C:\Users\krish\OneDrive\Desktop\Projects\Event Management System\EMS_Backend\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.EMS_Backend.props
+C:\Users\krish\OneDrive\Desktop\Projects\Event Management System\EMS_Backend\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\krish\OneDrive\Desktop\Projects\Event Management System\EMS_Backend\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\krish\OneDrive\Desktop\Projects\Event Management System\EMS_Backend\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\krish\OneDrive\Desktop\Projects\Event Management System\EMS_Backend\obj\Debug\net6.0\scopedcss\bundle\EMS_Backend.styles.css
+C:\Users\krish\OneDrive\Desktop\Projects\Event Management System\EMS_Backend\obj\Debug\net6.0\EMS_Backend.csproj.CopyComplete
+C:\Users\krish\OneDrive\Desktop\Projects\Event Management System\EMS_Backend\obj\Debug\net6.0\EMS_Backend.dll
+C:\Users\krish\OneDrive\Desktop\Projects\Event Management System\EMS_Backend\obj\Debug\net6.0\refint\EMS_Backend.dll
+C:\Users\krish\OneDrive\Desktop\Projects\Event Management System\EMS_Backend\obj\Debug\net6.0\EMS_Backend.pdb
+C:\Users\krish\OneDrive\Desktop\Projects\Event Management System\EMS_Backend\obj\Debug\net6.0\EMS_Backend.genruntimeconfig.cache
+C:\Users\krish\OneDrive\Desktop\Projects\Event Management System\EMS_Backend\obj\Debug\net6.0\ref\EMS_Backend.dll
+C:\Users\krish\OneDrive\Desktop\Projects\Event Management System\New folder\EMS_Backend\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\krish\OneDrive\Desktop\Projects\Event Management System\New folder\EMS_Backend\bin\Debug\net6.0\appsettings.json
+C:\Users\krish\OneDrive\Desktop\Projects\Event Management System\New folder\EMS_Backend\bin\Debug\net6.0\EMS_Backend.exe
+C:\Users\krish\OneDrive\Desktop\Projects\Event Management System\New folder\EMS_Backend\bin\Debug\net6.0\EMS_Backend.deps.json
+C:\Users\krish\OneDrive\Desktop\Projects\Event Management System\New folder\EMS_Backend\bin\Debug\net6.0\EMS_Backend.runtimeconfig.json
+C:\Users\krish\OneDrive\Desktop\Projects\Event Management System\New folder\EMS_Backend\bin\Debug\net6.0\EMS_Backend.dll
+C:\Users\krish\OneDrive\Desktop\Projects\Event Management System\New folder\EMS_Backend\bin\Debug\net6.0\EMS_Backend.pdb
+C:\Users\krish\OneDrive\Desktop\Projects\Event Management System\New folder\EMS_Backend\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\krish\OneDrive\Desktop\Projects\Event Management System\New folder\EMS_Backend\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\krish\OneDrive\Desktop\Projects\Event Management System\New folder\EMS_Backend\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\krish\OneDrive\Desktop\Projects\Event Management System\New folder\EMS_Backend\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\krish\OneDrive\Desktop\Projects\Event Management System\New folder\EMS_Backend\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\krish\OneDrive\Desktop\Projects\Event Management System\New folder\EMS_Backend\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\krish\OneDrive\Desktop\Projects\Event Management System\New folder\EMS_Backend\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\krish\OneDrive\Desktop\Projects\Event Management System\New folder\EMS_Backend\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\krish\OneDrive\Desktop\Projects\Event Management System\New folder\EMS_Backend\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\krish\OneDrive\Desktop\Projects\Event Management System\New folder\EMS_Backend\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\krish\OneDrive\Desktop\Projects\Event Management System\New folder\EMS_Backend\bin\Debug\net6.0\BusinessObjects.dll
+C:\Users\krish\OneDrive\Desktop\Projects\Event Management System\New folder\EMS_Backend\bin\Debug\net6.0\DataObjects.dll
+C:\Users\krish\OneDrive\Desktop\Projects\Event Management System\New folder\EMS_Backend\bin\Debug\net6.0\ImplementationObjects.dll
+C:\Users\krish\OneDrive\Desktop\Projects\Event Management System\New folder\EMS_Backend\bin\Debug\net6.0\BusinessObjects.pdb
+C:\Users\krish\OneDrive\Desktop\Projects\Event Management System\New folder\EMS_Backend\bin\Debug\net6.0\ImplementationObjects.pdb
+C:\Users\krish\OneDrive\Desktop\Projects\Event Management System\New folder\EMS_Backend\bin\Debug\net6.0\DataObjects.pdb
+C:\Users\krish\OneDrive\Desktop\Projects\Event Management System\New folder\EMS_Backend\obj\Debug\net6.0\EMS_Backend.csproj.AssemblyReference.cache
+C:\Users\krish\OneDrive\Desktop\Projects\Event Management System\New folder\EMS_Backend\obj\Debug\net6.0\EMS_Backend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krish\OneDrive\Desktop\Projects\Event Management System\New folder\EMS_Backend\obj\Debug\net6.0\EMS_Backend.AssemblyInfoInputs.cache
+C:\Users\krish\OneDrive\Desktop\Projects\Event Management System\New folder\EMS_Backend\obj\Debug\net6.0\EMS_Backend.AssemblyInfo.cs
+C:\Users\krish\OneDrive\Desktop\Projects\Event Management System\New folder\EMS_Backend\obj\Debug\net6.0\EMS_Backend.csproj.CoreCompileInputs.cache
+C:\Users\krish\OneDrive\Desktop\Projects\Event Management System\New folder\EMS_Backend\obj\Debug\net6.0\EMS_Backend.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\krish\OneDrive\Desktop\Projects\Event Management System\New folder\EMS_Backend\obj\Debug\net6.0\EMS_Backend.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\krish\OneDrive\Desktop\Projects\Event Management System\New folder\EMS_Backend\obj\Debug\net6.0\staticwebassets\msbuild.EMS_Backend.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\krish\OneDrive\Desktop\Projects\Event Management System\New folder\EMS_Backend\obj\Debug\net6.0\staticwebassets\msbuild.build.EMS_Backend.props
+C:\Users\krish\OneDrive\Desktop\Projects\Event Management System\New folder\EMS_Backend\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.EMS_Backend.props
+C:\Users\krish\OneDrive\Desktop\Projects\Event Management System\New folder\EMS_Backend\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.EMS_Backend.props
+C:\Users\krish\OneDrive\Desktop\Projects\Event Management System\New folder\EMS_Backend\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\krish\OneDrive\Desktop\Projects\Event Management System\New folder\EMS_Backend\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\krish\OneDrive\Desktop\Projects\Event Management System\New folder\EMS_Backend\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\krish\OneDrive\Desktop\Projects\Event Management System\New folder\EMS_Backend\obj\Debug\net6.0\scopedcss\bundle\EMS_Backend.styles.css
+C:\Users\krish\OneDrive\Desktop\Projects\Event Management System\New folder\EMS_Backend\obj\Debug\net6.0\EMS_Backend.csproj.CopyComplete
+C:\Users\krish\OneDrive\Desktop\Projects\Event Management System\New folder\EMS_Backend\obj\Debug\net6.0\EMS_Backend.dll
+C:\Users\krish\OneDrive\Desktop\Projects\Event Management System\New folder\EMS_Backend\obj\Debug\net6.0\refint\EMS_Backend.dll
+C:\Users\krish\OneDrive\Desktop\Projects\Event Management System\New folder\EMS_Backend\obj\Debug\net6.0\EMS_Backend.pdb
+C:\Users\krish\OneDrive\Desktop\Projects\Event Management System\New folder\EMS_Backend\obj\Debug\net6.0\EMS_Backend.genruntimeconfig.cache
+C:\Users\krish\OneDrive\Desktop\Projects\Event Management System\New folder\EMS_Backend\obj\Debug\net6.0\ref\EMS_Backend.dll

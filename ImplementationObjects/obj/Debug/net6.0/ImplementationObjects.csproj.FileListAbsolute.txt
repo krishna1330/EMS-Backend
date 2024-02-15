@@ -1,0 +1,34 @@
+C:\Users\krish\OneDrive\Desktop\Projects\Event Management System\ImplementationObjects\bin\Debug\net6.0\ImplementationObjects.deps.json
+C:\Users\krish\OneDrive\Desktop\Projects\Event Management System\ImplementationObjects\bin\Debug\net6.0\ImplementationObjects.dll
+C:\Users\krish\OneDrive\Desktop\Projects\Event Management System\ImplementationObjects\bin\Debug\net6.0\ImplementationObjects.pdb
+C:\Users\krish\OneDrive\Desktop\Projects\Event Management System\ImplementationObjects\bin\Debug\net6.0\DataObjects.dll
+C:\Users\krish\OneDrive\Desktop\Projects\Event Management System\ImplementationObjects\bin\Debug\net6.0\DataObjects.pdb
+C:\Users\krish\OneDrive\Desktop\Projects\Event Management System\ImplementationObjects\obj\Debug\net6.0\ImplementationObjects.csproj.AssemblyReference.cache
+C:\Users\krish\OneDrive\Desktop\Projects\Event Management System\ImplementationObjects\obj\Debug\net6.0\ImplementationObjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krish\OneDrive\Desktop\Projects\Event Management System\ImplementationObjects\obj\Debug\net6.0\ImplementationObjects.AssemblyInfoInputs.cache
+C:\Users\krish\OneDrive\Desktop\Projects\Event Management System\ImplementationObjects\obj\Debug\net6.0\ImplementationObjects.AssemblyInfo.cs
+C:\Users\krish\OneDrive\Desktop\Projects\Event Management System\ImplementationObjects\obj\Debug\net6.0\ImplementationObjects.csproj.CoreCompileInputs.cache
+C:\Users\krish\OneDrive\Desktop\Projects\Event Management System\ImplementationObjects\obj\Debug\net6.0\ImplementationObjects.csproj.CopyComplete
+C:\Users\krish\OneDrive\Desktop\Projects\Event Management System\ImplementationObjects\obj\Debug\net6.0\ImplementationObjects.dll
+C:\Users\krish\OneDrive\Desktop\Projects\Event Management System\ImplementationObjects\obj\Debug\net6.0\refint\ImplementationObjects.dll
+C:\Users\krish\OneDrive\Desktop\Projects\Event Management System\ImplementationObjects\obj\Debug\net6.0\ImplementationObjects.pdb
+C:\Users\krish\OneDrive\Desktop\Projects\Event Management System\ImplementationObjects\obj\Debug\net6.0\ref\ImplementationObjects.dll
+C:\Users\krish\OneDrive\Desktop\Projects\Event Management System\ImplementationObjects\bin\Debug\net6.0\BusinessObjects.dll
+C:\Users\krish\OneDrive\Desktop\Projects\Event Management System\ImplementationObjects\bin\Debug\net6.0\BusinessObjects.pdb
+C:\Users\krish\OneDrive\Desktop\Projects\Event Management System\New folder\ImplementationObjects\bin\Debug\net6.0\ImplementationObjects.deps.json
+C:\Users\krish\OneDrive\Desktop\Projects\Event Management System\New folder\ImplementationObjects\bin\Debug\net6.0\ImplementationObjects.dll
+C:\Users\krish\OneDrive\Desktop\Projects\Event Management System\New folder\ImplementationObjects\bin\Debug\net6.0\ImplementationObjects.pdb
+C:\Users\krish\OneDrive\Desktop\Projects\Event Management System\New folder\ImplementationObjects\bin\Debug\net6.0\BusinessObjects.dll
+C:\Users\krish\OneDrive\Desktop\Projects\Event Management System\New folder\ImplementationObjects\bin\Debug\net6.0\DataObjects.dll
+C:\Users\krish\OneDrive\Desktop\Projects\Event Management System\New folder\ImplementationObjects\bin\Debug\net6.0\DataObjects.pdb
+C:\Users\krish\OneDrive\Desktop\Projects\Event Management System\New folder\ImplementationObjects\bin\Debug\net6.0\BusinessObjects.pdb
+C:\Users\krish\OneDrive\Desktop\Projects\Event Management System\New folder\ImplementationObjects\obj\Debug\net6.0\ImplementationObjects.csproj.AssemblyReference.cache
+C:\Users\krish\OneDrive\Desktop\Projects\Event Management System\New folder\ImplementationObjects\obj\Debug\net6.0\ImplementationObjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krish\OneDrive\Desktop\Projects\Event Management System\New folder\ImplementationObjects\obj\Debug\net6.0\ImplementationObjects.AssemblyInfoInputs.cache
+C:\Users\krish\OneDrive\Desktop\Projects\Event Management System\New folder\ImplementationObjects\obj\Debug\net6.0\ImplementationObjects.AssemblyInfo.cs
+C:\Users\krish\OneDrive\Desktop\Projects\Event Management System\New folder\ImplementationObjects\obj\Debug\net6.0\ImplementationObjects.csproj.CoreCompileInputs.cache
+C:\Users\krish\OneDrive\Desktop\Projects\Event Management System\New folder\ImplementationObjects\obj\Debug\net6.0\ImplementationObjects.csproj.CopyComplete
+C:\Users\krish\OneDrive\Desktop\Projects\Event Management System\New folder\ImplementationObjects\obj\Debug\net6.0\ImplementationObjects.dll
+C:\Users\krish\OneDrive\Desktop\Projects\Event Management System\New folder\ImplementationObjects\obj\Debug\net6.0\refint\ImplementationObjects.dll
+C:\Users\krish\OneDrive\Desktop\Projects\Event Management System\New folder\ImplementationObjects\obj\Debug\net6.0\ImplementationObjects.pdb
+C:\Users\krish\OneDrive\Desktop\Projects\Event Management System\New folder\ImplementationObjects\obj\Debug\net6.0\ref\ImplementationObjects.dll

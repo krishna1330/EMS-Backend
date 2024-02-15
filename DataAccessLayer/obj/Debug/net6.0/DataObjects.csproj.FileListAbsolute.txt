@@ -1,0 +1,30 @@
+C:\Users\krish\OneDrive\Desktop\Projects\Event Management System\DataAccessLayer\bin\Debug\net6.0\DataObjects.deps.json
+C:\Users\krish\OneDrive\Desktop\Projects\Event Management System\DataAccessLayer\bin\Debug\net6.0\DataObjects.dll
+C:\Users\krish\OneDrive\Desktop\Projects\Event Management System\DataAccessLayer\bin\Debug\net6.0\DataObjects.pdb
+C:\Users\krish\OneDrive\Desktop\Projects\Event Management System\DataAccessLayer\obj\Debug\net6.0\DataObjects.csproj.AssemblyReference.cache
+C:\Users\krish\OneDrive\Desktop\Projects\Event Management System\DataAccessLayer\obj\Debug\net6.0\DataObjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krish\OneDrive\Desktop\Projects\Event Management System\DataAccessLayer\obj\Debug\net6.0\DataObjects.AssemblyInfoInputs.cache
+C:\Users\krish\OneDrive\Desktop\Projects\Event Management System\DataAccessLayer\obj\Debug\net6.0\DataObjects.AssemblyInfo.cs
+C:\Users\krish\OneDrive\Desktop\Projects\Event Management System\DataAccessLayer\obj\Debug\net6.0\DataObjects.csproj.CoreCompileInputs.cache
+C:\Users\krish\OneDrive\Desktop\Projects\Event Management System\DataAccessLayer\obj\Debug\net6.0\DataObjects.dll
+C:\Users\krish\OneDrive\Desktop\Projects\Event Management System\DataAccessLayer\obj\Debug\net6.0\refint\DataObjects.dll
+C:\Users\krish\OneDrive\Desktop\Projects\Event Management System\DataAccessLayer\obj\Debug\net6.0\DataObjects.pdb
+C:\Users\krish\OneDrive\Desktop\Projects\Event Management System\DataAccessLayer\obj\Debug\net6.0\ref\DataObjects.dll
+C:\Users\krish\OneDrive\Desktop\Projects\Event Management System\DataAccessLayer\bin\Debug\net6.0\BusinessObjects.dll
+C:\Users\krish\OneDrive\Desktop\Projects\Event Management System\DataAccessLayer\bin\Debug\net6.0\BusinessObjects.pdb
+C:\Users\krish\OneDrive\Desktop\Projects\Event Management System\DataAccessLayer\obj\Debug\net6.0\DataObjects.csproj.CopyComplete
+C:\Users\krish\OneDrive\Desktop\Projects\Event Management System\New folder\DataAccessLayer\bin\Debug\net6.0\DataObjects.deps.json
+C:\Users\krish\OneDrive\Desktop\Projects\Event Management System\New folder\DataAccessLayer\bin\Debug\net6.0\DataObjects.dll
+C:\Users\krish\OneDrive\Desktop\Projects\Event Management System\New folder\DataAccessLayer\bin\Debug\net6.0\DataObjects.pdb
+C:\Users\krish\OneDrive\Desktop\Projects\Event Management System\New folder\DataAccessLayer\bin\Debug\net6.0\BusinessObjects.dll
+C:\Users\krish\OneDrive\Desktop\Projects\Event Management System\New folder\DataAccessLayer\bin\Debug\net6.0\BusinessObjects.pdb
+C:\Users\krish\OneDrive\Desktop\Projects\Event Management System\New folder\DataAccessLayer\obj\Debug\net6.0\DataObjects.csproj.AssemblyReference.cache
+C:\Users\krish\OneDrive\Desktop\Projects\Event Management System\New folder\DataAccessLayer\obj\Debug\net6.0\DataObjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krish\OneDrive\Desktop\Projects\Event Management System\New folder\DataAccessLayer\obj\Debug\net6.0\DataObjects.AssemblyInfoInputs.cache
+C:\Users\krish\OneDrive\Desktop\Projects\Event Management System\New folder\DataAccessLayer\obj\Debug\net6.0\DataObjects.AssemblyInfo.cs
+C:\Users\krish\OneDrive\Desktop\Projects\Event Management System\New folder\DataAccessLayer\obj\Debug\net6.0\DataObjects.csproj.CoreCompileInputs.cache
+C:\Users\krish\OneDrive\Desktop\Projects\Event Management System\New folder\DataAccessLayer\obj\Debug\net6.0\DataObjects.csproj.CopyComplete
+C:\Users\krish\OneDrive\Desktop\Projects\Event Management System\New folder\DataAccessLayer\obj\Debug\net6.0\DataObjects.dll
+C:\Users\krish\OneDrive\Desktop\Projects\Event Management System\New folder\DataAccessLayer\obj\Debug\net6.0\refint\DataObjects.dll
+C:\Users\krish\OneDrive\Desktop\Projects\Event Management System\New folder\DataAccessLayer\obj\Debug\net6.0\DataObjects.pdb
+C:\Users\krish\OneDrive\Desktop\Projects\Event Management System\New folder\DataAccessLayer\obj\Debug\net6.0\ref\DataObjects.dll
