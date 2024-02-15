@@ -32,5 +32,49 @@ namespace EMS_Backend.Controllers
             }
         }
 
+        [HttpPost("AddVenue")]
+        public IActionResult AddVenue(Venue venue)
+        {
+            try
+            {
+                VenueImplementation venueImplementation = new VenueImplementation(_connectionString);
+                string response = venueImplementation.AddVenue(venue);
+                return Ok(new { Message = response });
+            }
+            catch (Exception ex)
+            {
+                return StatusCode(StatusCodes.Status500InternalServerError, "Internal Server Error: " + ex.Message);
+            }
+        }
+
+        [HttpPost("EditVenue")]
+        public IActionResult EditVenue(Venue venue)
+        {
+            try
+            {
+                VenueImplementation venueImplementation = new VenueImplementation(_connectionString);
+                string response = venueImplementation.EditVenueById(venue);
+                return Ok(new { Message = response });
+            }
+            catch (Exception ex)
+            {
+                return StatusCode(StatusCodes.Status500InternalServerError, "Internal Server Error: " + ex.Message);
+            }
+        }
+
+        [HttpDelete("DeleteVenue")]
+        public IActionResult DeleteVenue(int venueId)
+        {
+            try
+            {
+                VenueImplementation venueImplementation = new VenueImplementation(_connectionString);
+                string response = venueImplementation.DeleteVenue(venueId);
+                return Ok(new { Message = response });
+            }
+            catch (Exception ex)
+            {
+                return StatusCode(StatusCodes.Status500InternalServerError, "Internal Server Error: " + ex.Message);
+            }
+        }
     }
 }

@@ -23,5 +23,29 @@ namespace ImplementationObjects
 
             return venueList;
         }
+
+        public string AddVenue(Venue venue)
+        {
+            VenueDAO venueDAO = new VenueDAO();
+            string response = venueDAO.AddVenue(venue, _connectionString);
+
+            return response;
+        }
+
+        public string EditVenueById(Venue venue)
+        {
+            VenueDAO venueDAO = new VenueDAO();
+            string response = venueDAO.EditVenueById(venue, _connectionString);
+
+            return response;
+        }
+
+        public string DeleteVenue(int venueId)
+        {
+            VenueDAO venueDAO = new VenueDAO();
+            string response = venueDAO.DeleteVenue(venueId, _connectionString);
+
+            return response;
+        }
     }
 }

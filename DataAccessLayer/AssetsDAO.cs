@@ -45,24 +45,53 @@ namespace DataObjects
         public string EditAssetById(Assets assets, string _connectionString)
         {
             string spName = "EditAsset";
-            string response = Db.EditAssetById(assets, _connectionString, spName);
 
+            Dictionary<string, string?> param = new Dictionary<string, string?>();
+            param.Add("@assetId", assets.AssetId.ToString());
+            param.Add("@assetName", assets.AssetName);
+            param.Add("@assetDescription", assets.AssetDescription);
+            param.Add("@assetCostPerDay", assets.AssetCostPerDay.ToString());
+            param.Add("@assetStockAvailability", assets.AssetStockAvailability.ToString());
+
+            string response = Db.EditDataById(_connectionString, spName, param);
+
+            if (response == "Data Updated Successfully")
+            {
+                response = "Asset Updated Successfully";
+            }
             return response;
         }
 
         public string AddAsset(Assets assets, string _connectionString)
         {
             string spName = "AddAsset";
-            string response = Db.AddAsset(assets, _connectionString, spName);
 
+            Dictionary<string, string?> param = new Dictionary<string, string?>();
+            param.Add("@assetName", assets.AssetName);
+            param.Add("@assetDescription", assets.AssetDescription);
+            param.Add("@assetCostPerDay", assets.AssetCostPerDay.ToString());
+            param.Add("@assetStockAvailability", assets.AssetStockAvailability.ToString());
+
+            string response = Db.AddDataToDb(_connectionString, spName, param);
+
+            if (response == "Data Added Successfully")
+            {
+                response = "Asset Added Successfully";
+            }
             return response;
         }
 
         public string DeleteAsset(int assetId, string _connectionString)
         {
             string spName = "DeleteAsset";
-            string response = Db.DeleteAsset(assetId, _connectionString, spName);
+            string paramName = "@assetId";
+            int Id = assetId;
+            string response = Db.DeleteDataFromDb(_connectionString, spName, paramName, Id);
 
+            if (response == "Data Deleted Successfully")
+            {
+                response = "Asset Deleted Successfully";
+            }
             return response;
         }
     }

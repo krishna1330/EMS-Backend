@@ -29,7 +29,7 @@ namespace DataAccessLayer
             }
         }
 
-        public static string EditAssetById(Assets assets, string connectionString, string spName)
+        public static string EditDataById(string connectionString, string spName, Dictionary<string, string> param)
         {
             string response = string.Empty;
 
@@ -42,17 +42,16 @@ namespace DataAccessLayer
                     {
                         cmd.CommandType = CommandType.StoredProcedure;
 
-                        cmd.Parameters.AddWithValue("@assetId", assets.AssetId);
-                        cmd.Parameters.AddWithValue("@assetName", assets.AssetName);
-                        cmd.Parameters.AddWithValue("@assetDescription", assets.AssetDescription);
-                        cmd.Parameters.AddWithValue("@assetCostPerDay", assets.AssetCostPerDay);
-                        cmd.Parameters.AddWithValue("@assetStockAvailability", assets.AssetStockAvailability);
+                        foreach (var item in param)
+                        {
+                            cmd.Parameters.AddWithValue(item.Key, item.Value);
+                        }
 
                         cmd.ExecuteNonQuery();
                     }
                 }
 
-                response = "Asset Updated Successfully";
+                response = "Data Updated Successfully";
             }
             catch (Exception ex)
             {
@@ -62,7 +61,7 @@ namespace DataAccessLayer
             return response;
         }
 
-        public static string AddAsset(Assets assets, string connectionString, string spName)
+        public static string AddDataToDb(string connectionString, string spName, Dictionary<string,string> param)
         {
             string response = string.Empty;
 
@@ -75,16 +74,15 @@ namespace DataAccessLayer
                     {
                         cmd.CommandType = CommandType.StoredProcedure;
 
-                        cmd.Parameters.AddWithValue("@assetName", assets.AssetName);
-                        cmd.Parameters.AddWithValue("@assetDescription", assets.AssetDescription);
-                        cmd.Parameters.AddWithValue("@assetCostPerDay", assets.AssetCostPerDay);
-                        cmd.Parameters.AddWithValue("@assetStockAvailability", assets.AssetStockAvailability);
-
+                        foreach (var item in  param)
+                        {
+                            cmd.Parameters.AddWithValue(item.Key, item.Value);
+                        }
                         cmd.ExecuteNonQuery();
                     }
                 }
 
-                response = "Asset Added Successfully";
+                response = "Data Added Successfully";
             }
             catch (Exception ex)
             {
@@ -95,7 +93,7 @@ namespace DataAccessLayer
         }
 
 
-        public static string DeleteAsset(int assetId, string connectionString, string spName)
+        public static string DeleteDataFromDb(string connectionString, string spName, string paramName, int Id)
         {
             string response = string.Empty;
 
@@ -107,12 +105,12 @@ namespace DataAccessLayer
                     using (SqlCommand cmd = new SqlCommand(spName, con))
                     {
                         cmd.CommandType = CommandType.StoredProcedure;
-                        cmd.Parameters.AddWithValue("@assetId", assetId);
+                        cmd.Parameters.AddWithValue(paramName, Id);
                         cmd.ExecuteNonQuery();
                     }
                 }
 
-                response = "Asset Deleted Successfully";
+                response = "Data Deleted Successfully";
             }
             catch (Exception ex)
             {
