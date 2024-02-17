@@ -16,23 +16,19 @@ namespace DataAccessLayer
                 using (SqlCommand cmd = new SqlCommand(spName, con))
                 {
                     cmd.CommandType = CommandType.StoredProcedure;
-
                     using (SqlDataAdapter da = new SqlDataAdapter(cmd))
                     {
                         DataSet ds = new DataSet();
                         da.Fill(ds);
-
                         return ds;
                     }
                 }
-
             }
         }
 
         public static string EditDataById(string connectionString, string spName, Dictionary<string, string> param)
         {
             string response = string.Empty;
-
             try
             {
                 using (SqlConnection con = new SqlConnection(connectionString))
@@ -41,12 +37,10 @@ namespace DataAccessLayer
                     using (SqlCommand cmd = new SqlCommand(spName, con))
                     {
                         cmd.CommandType = CommandType.StoredProcedure;
-
                         foreach (var item in param)
                         {
                             cmd.Parameters.AddWithValue(item.Key, item.Value);
                         }
-
                         cmd.ExecuteNonQuery();
                     }
                 }
@@ -64,7 +58,6 @@ namespace DataAccessLayer
         public static string AddDataToDb(string connectionString, string spName, Dictionary<string,string> param)
         {
             string response = string.Empty;
-
             try
             {
                 using (SqlConnection con = new SqlConnection(connectionString))
@@ -88,7 +81,6 @@ namespace DataAccessLayer
             {
                 response = ex.Message;
             }
-
             return response;
         }
 
@@ -96,7 +88,6 @@ namespace DataAccessLayer
         public static string DeleteDataFromDb(string connectionString, string spName, string paramName, int Id)
         {
             string response = string.Empty;
-
             try
             {
                 using (SqlConnection con = new SqlConnection(connectionString))
@@ -109,16 +100,13 @@ namespace DataAccessLayer
                         cmd.ExecuteNonQuery();
                     }
                 }
-
                 response = "Data Deleted Successfully";
             }
             catch (Exception ex)
             {
                 response = ex.Message;
             }
-
             return response;
         }
-
     }
 }

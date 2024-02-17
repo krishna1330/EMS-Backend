@@ -22,5 +22,13 @@ namespace ImplementationObjects
 
             return bookingsList;
         }
+
+        public string AddBooking(Bookings bookings)
+        {
+            BookingsDAO bookingsDAO = new BookingsDAO();
+            string response = bookingsDAO.AddBooking(bookings, _connectionString);
+
+            return response;
+        }
     }
 }

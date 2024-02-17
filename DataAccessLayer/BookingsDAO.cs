@@ -29,7 +29,7 @@ namespace DataObjects
                     bookings.MobileNumber = dr["MobileNumber"].ToString();
                     bookings.VenueId = Convert.ToInt32(dr["VenueId"]);
                     bookings.VenueName = dr["VenueName"].ToString();
-                    bookings.EventDateTime = Convert.ToDateTime(dr["EventDateTime"]);
+                    bookings.EventDateTime = dr["EventDateTime"].ToString();
                     bookings.BookedHours = Convert.ToInt32(dr["BookedHours"]);
 
                     bookingsList.Add(bookings);
@@ -42,6 +42,26 @@ namespace DataObjects
             {
                 return null;
             }
+        }
+
+        public string AddBooking(Bookings bookings, string _connectionString)
+        {
+            string spName = "AddBooking";
+
+            Dictionary<string, string?> param = new Dictionary<string, string?>();
+            param.Add("@customerName", bookings.CustomerName);
+            param.Add("@mobileNumber", bookings.MobileNumber);
+            param.Add("@venueId", bookings.VenueId.ToString());
+            param.Add("@eventDateTime", bookings.EventDateTime.ToString() + ":00");
+            param.Add("@bookedHours", bookings.BookedHours.ToString());
+
+            string response = Db.AddDataToDb(_connectionString, spName, param);
+
+            if (response == "Data Added Successfully")
+            {
+                response = "Booking Added Successfully";
+            }
+            return response;
         }
     }
 }
