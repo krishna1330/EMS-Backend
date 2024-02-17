@@ -30,5 +30,13 @@ namespace ImplementationObjects
 
             return response;
         }
+
+        public string AddEventAsset(EventAssets eventAssets)
+        {
+            BookingsDAO bookingsDAO = new BookingsDAO();
+            string response = bookingsDAO.AddEventAsset(eventAssets, _connectionString);
+
+            return response;
+        }
     }
 }

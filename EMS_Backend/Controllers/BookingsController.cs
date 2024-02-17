@@ -44,5 +44,20 @@ namespace EMS_Backend.Controllers
                 return StatusCode(StatusCodes.Status500InternalServerError, "Internal Server Error: " + ex.Message);
             }
         }
+
+        [HttpPost("AddEventAsset")]
+        public IActionResult AddEventAsset(EventAssets eventAssets)
+        {
+            try
+            {
+                BookingsImplementation bookingsImplementation = new BookingsImplementation(_connectionString);
+                string response = bookingsImplementation.AddEventAsset(eventAssets);
+                return Ok(new { Message = response });
+            }
+            catch (Exception ex)
+            {
+                return StatusCode(StatusCodes.Status500InternalServerError, "Internal Server Error: " + ex.Message);
+            }
+        }
     }
 }

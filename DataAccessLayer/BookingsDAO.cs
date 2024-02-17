@@ -63,5 +63,23 @@ namespace DataObjects
             }
             return response;
         }
+
+        public string AddEventAsset(EventAssets eventAssets, string _connectionString)
+        {
+            string spName = "AddEventAsset";
+
+            Dictionary<string, string?> param = new Dictionary<string, string?>();
+            param.Add("@eventBookingId", eventAssets.EventBookingId.ToString());
+            param.Add("@assetId", eventAssets.AssetId.ToString());
+            param.Add("@quantity", eventAssets.Quantity.ToString());
+
+            string response = Db.AddDataToDb(_connectionString, spName, param);
+
+            if (response == "Data Added Successfully")
+            {
+                response = "Asset Added Successfully";
+            }
+            return response;
+        }
     }
 }

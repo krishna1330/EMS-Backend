@@ -13,7 +13,7 @@ namespace BusinessObjects
         public string? MobileNumber { get; set; }
         public int? VenueId { get; set; }
         public string? VenueName { get; set; }
-        public DateTime? EventDateTime { get; set; }
+        public string? EventDateTime { get; set; }
         public int? BookedHours { get; set; }
 
     }
